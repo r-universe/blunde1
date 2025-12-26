@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "agtboost"]
-	path = agtboost
-	url = https://github.com/cran/agtboost
 [submodule "dgumbel"]
 	path = dgumbel
 	url = https://github.com/blunde1/dgumbel
